@@ -9,7 +9,7 @@ public class HelloWorld {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("world 看过来lailai1");
+		System.out.println("world 看过来edit");
 
 	}
 
